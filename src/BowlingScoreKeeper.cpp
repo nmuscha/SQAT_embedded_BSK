@@ -30,6 +30,15 @@ int main(void)
     SystemCoreClockUpdate();
 #endif
 
+    int frame
+	void calculate ()
+    {
+    	int score, int pin
+    }
+
+    void print date
+
+
     // Configuration of SWM and I2C
     swm_config_i2c();
     i2c_reset();
@@ -37,6 +46,7 @@ int main(void)
     // Display setup
 	disp_on( DISP_SHOW_NONE );
 	disp_reset( DISP_SHOW_NONE );
+
 
 	// Main loop -- you do not have to tocuh it
 	while( 1 ){
